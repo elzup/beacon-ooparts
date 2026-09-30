@@ -1,5 +1,5 @@
 {
-  "name": "beacon-oparts",
+  "name": "beacon-ooparts",
   "version": "0.1.0",
   "description": "Tiny helpers for cataloging out-of-place artifacts",
   "type": "module",
