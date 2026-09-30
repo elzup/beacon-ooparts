@@ -1,0 +1,8 @@
+{
+  "name": "beacon-oparts",
+  "version": "0.1.0",
+  "description": "Tiny helpers for cataloging out-of-place artifacts",
+  "type": "module",
+  "main": "src/index.ts",
+  "license": "MIT"
+}

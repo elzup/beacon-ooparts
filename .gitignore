@@ -1,0 +1,5 @@
+.DS_Store
+.env
+.env.*
+.metarc/
+.repo-publish-include
